@@ -20,6 +20,12 @@ git clone https://github.com/rongxinzy/get-api-docs.git ~/.config/agents/skills/
 git clone https://github.com/rongxinzy/get-api-docs.git ~/.claude/skills/get-api-docs
 ```
 
+### Codex (OpenAI)
+
+```bash
+git clone https://github.com/rongxinzy/get-api-docs.git ~/.codex/skills/get-api-docs
+```
+
 ### Cursor / 其他 Agent 工具
 
 将本仓库 `SKILL.md` 复制到对应工具的规则或 skills 目录即可。
